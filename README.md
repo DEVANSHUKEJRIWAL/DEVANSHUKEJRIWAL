@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DEVANSHUKEJRIWAL
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...C++,java,pyhton
+- 🌱 I’m currently learning ...C++,java,python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...devanshukejriwal24@gmail.com
 
