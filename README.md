@@ -1,8 +1,8 @@
-# Hi there, I'm [Devanshu Kejriwal!](https://portfolio-DEVANSHUKEJRIWAL.vercel.app/) 👋
+# Hello Contributors, I'm [Devanshu Kejriwal!](https://portfolio-DEVANSHUKEJRIWAL.vercel.app/)🤩 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DEVANSHUKEJRIWAL" alt="DEVANSHUKEJRIWAL" /> </p>
 
-## A passionate self-taught Frontend Developer from India.
+## A FrontEnd Developer
 
 ---
 
