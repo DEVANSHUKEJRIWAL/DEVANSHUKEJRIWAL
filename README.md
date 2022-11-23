@@ -25,6 +25,7 @@
 <img src=https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 
+## **Badges:**
 [![@devanshu's Holopin board](https://holopin.me/devanshu)](https://holopin.io/@devanshu)
 </div>
 
