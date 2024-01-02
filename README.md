@@ -1,6 +1,6 @@
 # Hello Contributors, I'm [Devanshu Kejriwal!](https://portfolio-DEVANSHUKEJRIWAL.vercel.app/)🤩 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DEVANSHUKEJRIWAL" alt="DEVANSHUKEJRIWAL" /> </p>
+<p align="left"> <img src="https://devport-folio.netlify.app" alt="DEVANSHUKEJRIWAL" /> </p>
 
 ## A FrontEnd Developer
 
@@ -52,9 +52,11 @@ alt="HTML"
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="NEXTJS"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS"/>
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
 <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI"/>
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
 ### **TESTING**
