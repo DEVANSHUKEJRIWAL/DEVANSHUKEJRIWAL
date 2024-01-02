@@ -4,7 +4,6 @@
 
 ## A FrontEnd Developer
 
----
 
 ## **Connect with me**
 
