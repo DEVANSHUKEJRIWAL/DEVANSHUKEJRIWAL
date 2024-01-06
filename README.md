@@ -4,6 +4,8 @@
 
 ## A FrontEnd Developer
 
+[![DEVANSHU's GitHub | Stats](https://stats.quine.sh/DEVANSHU/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=DEVANSHU)
+
 
 ## **Connect with me**
 
