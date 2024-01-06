@@ -4,7 +4,7 @@
 
 ## A FrontEnd Developer
 
-[![DEVANSHU's GitHub | Stats](https://stats.quine.sh/DEVANSHU/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=DEVANSHU)
+
 
 
 ## **Connect with me**
@@ -84,7 +84,7 @@ alt="HTML"
 
 ## **Programming and Github Stats**
 
-[![Dev's github stats](https://github-readme-stats.vercel.app/api?username=DEVANSHUKEJRIWAL&theme=radical)](https://github.com/DEVANSHUKEJRIWAL/)
+[![DEVANSHU's GitHub | Stats](https://stats.quine.sh/DEVANSHU/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=DEVANSHU)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEVANSHUKEJRIWAL&layout=compact&theme=radical)](https://github.com/DEVANSHUKEJRIWAL)
 <br>
 
