@@ -85,7 +85,6 @@ alt="HTML"
 ## **Programming and Github Stats**
 
 [![DEVANSHU's GitHub | Stats](https://stats.quine.sh/DEVANSHU/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=DEVANSHU)
-[![DEVANSHU's GitHub | Languages Over Time](https://stats.quine.sh/DEVANSHU/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=DEVANSHU)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEVANSHUKEJRIWAL&layout=compact&theme=radical)](https://github.com/DEVANSHUKEJRIWAL)
 <br>
 
