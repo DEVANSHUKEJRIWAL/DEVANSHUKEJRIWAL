@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DEVANSHUKEJRIWAL" alt="DEVANSHUKEJRIWAL" /> </p>
 
-## A FrontEnd Developer
+## A FullStack Developer
 
 
 
