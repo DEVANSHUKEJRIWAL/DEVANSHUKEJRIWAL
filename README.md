@@ -41,11 +41,6 @@ A passionate FullStack Developer with experience in building scalable and user-f
     alt="DEVANSHUKEJRIWAL's Top Languages" 
     style="margin: 5px;"
   />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=DEVANSHUKEJRIWAL&theme=radical" 
-    alt="DEVANSHUKEJRIWAL's GitHub Streak" 
-    style="margin: 5px;"
-  />
 </p>
 
 ### Coding Profiles & Badges
