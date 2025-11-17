@@ -8,7 +8,7 @@ A passionate FullStack Developer with experience in building scalable and user-f
 
 ---
 
-## Connect with me
+## 🤝 Connect with me
 
 <p align="left">
 <a href="mailto:devanshukejriwal24@gmail.com" target="_blank">
@@ -25,8 +25,43 @@ A passionate FullStack Developer with experience in building scalable and user-f
 </a>
 </p>
 
-## Badges
-[![@devanshu's Holopin board](https://holopin.me/devanshu)](https://holopin.io/@devanshu)
+---
+
+## 📊 My Stats & Badges
+
+### GitHub Stats
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=DEVANSHUKEJRIWAL&show_icons=true&theme=radical&rank_icon=github" 
+    alt="DEVANSHUKEJRIWAL's GitHub Stats" 
+    style="margin: 5px;"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVANSHUKEJRIWAL&layout=compact&theme=radical" 
+    alt="DEVANSHUKEJRIWAL's Top Languages" 
+    style="margin: 5px;"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=DEVANSHUKEJRIWAL&theme=radical" 
+    alt="DEVANSHUKEJRIWAL's GitHub Streak" 
+    style="margin: 5px;"
+  />
+</p>
+
+### Coding Profiles & Badges
+<p align="left">
+  <img 
+    src="https://github-readme-leetcode.vercel.app/api?username=Devanshukejriwal06" 
+    alt="Devanshu's LeetCode Stats" 
+    style="margin-bottom: 5px; margin-right: 5px;"
+  />
+  <a href="https://takeuforward.org/plus/profile/Secret%20Dev" target="_blank">
+    <img src="https://img.shields.io/badge/takeUforward-FF8000?style=for-the-badge" alt="takeUforward Profile" style="margin-bottom: 5px; margin-right: 5px;" />
+  </a>
+  <a href="https://holopin.io/@devanshu" target="_blank">
+    <img src="https://holopin.me/devanshu" alt="@devanshu's Holopin board" style="margin-bottom: 5px; margin-right: 5px;">
+  </a>
+</p>
 
 ---
 
@@ -82,11 +117,6 @@ A passionate FullStack Developer with experience in building scalable and user-f
   <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle"/>
 </p>
 
-### Testing
-<p align="left">
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="JEST"/>
-</p>
-
 ### Cloud & Deployment
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS (Basics)"/>
@@ -117,6 +147,8 @@ A passionate FullStack Developer with experience in building scalable and user-f
 ---
 
 ## 🚀 Projects
+
+> **Note:** Don't forget to add your repository links!
 
 ### **ScriptGen**
 * Built an AI-powered content generator leveraging Gemini API to automate content creation, producing blog titles, YouTube tags, and Instagram posts to streamline multi-platform publishing.
