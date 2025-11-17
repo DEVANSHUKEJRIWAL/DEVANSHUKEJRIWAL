@@ -45,14 +45,20 @@ A passionate FullStack Developer with experience in building scalable and user-f
 
 ### Coding Profiles & Badges
 <p align="left">
-  <img 
+  <!-- <img 
     src="https://github-readme-leetcode.vercel.app/api?username=Devanshukejriwal06" 
     alt="Devanshu's LeetCode Stats" 
     style="margin-bottom: 5px; margin-right: 5px;"
-  />
+  /> -->
+  
+  <a href="https://leetcode.com/Devanshukejriwal06" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" style="margin-bottom: 5px; margin-right: 5px;" />
+  </a>
+
   <a href="https://takeuforward.org/plus/profile/Secret%20Dev" target="_blank">
     <img src="https://img.shields.io/badge/takeUforward-FF8000?style=for-the-badge" alt="takeUforward Profile" style="margin-bottom: 5px; margin-right: 5px;" />
   </a>
+  
   <a href="https://holopin.io/@devanshu" target="_blank">
     <img src="https://holopin.me/devanshu" alt="@devanshu's Holopin board" style="margin-bottom: 5px; margin-right: 5px;">
   </a>
@@ -142,8 +148,6 @@ A passionate FullStack Developer with experience in building scalable and user-f
 ---
 
 ## 🚀 Projects
-
-> **Note:** Don't forget to add your repository links!
 
 ### **ScriptGen**
 * Built an AI-powered content generator leveraging Gemini API to automate content creation, producing blog titles, YouTube tags, and Instagram posts to streamline multi-platform publishing.
