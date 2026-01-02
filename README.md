@@ -166,7 +166,7 @@ A passionate FullStack Developer with experience in building scalable and user-f
 ## 🎓 Education
 
 ### University of Maryland, College Park
-*Master of Engineering, Software Engineering | GPA: 3.9*
+*Master of Engineering, Software Engineering | GPA: 3.67*
 *(Sept 2025 - May 2027)*
 * **Relevant Courses:** Software Engineering, Software Design, Cloud Security
 
